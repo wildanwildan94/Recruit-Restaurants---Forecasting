@@ -1,7 +1,7 @@
 Recruit Restaurants Analysis Project
 
 A PDF with key findings can be found at:
-https://github.com/wildanwildan94/Recruit-Restaurants---Forecasting/blob/master/Recruit_Analysis_Project_C.pdf
+https://github.com/wildanwildan94/Recruit-Restaurants-Data-Analysis/blob/master/Recruit_Data_Analysis_Project.pdf
 
 Google Colaboraty Notebooks with Code can be found at:
 (I) Data Analysis - Recruit
